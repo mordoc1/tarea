@@ -1,2 +1,32 @@
-# tarea
-Desafios
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+<title>World Wide Web</title>
+</head>
+<body>
+
+<h1>Curriculum Vitae de Bruce Wayne</h1>
+
+<h2>Datos personales</h2>
+
+ <blockquote><p>&bull;&nbsp; Nombre completo:  <strong>Bruce Wayne</strong><p></blockquote>
+ <blockquote><p>&bull;&nbsp; Fecha de nacimiento: <strong>1/5/1939</strong><p></blockquote>
+ <blockquote><p>&bull;&nbsp; Lugar de nacimiento:  <strong>Gotham City</strong><p></blockquote>
+
+<h2>Formación académica</h2>
+
+<blockquote><p> &bull;&nbsp; 1956-1961: <strong>Universidad del Espantapájaros</strong><p></blockquote>
+ <blockquote><p>&bull;&nbsp;1952-1956: <strong>Instituto de Dos Caras</strong><p></blockquote>
+ <blockquote><p>&bull;&nbsp;1944-1952:  <strong>Escuela Primaria del Joker</strong><p></blockquote>
+<h2>Experiencia laboral</h2>
+
+ <blockquote><p>&bull;&nbsp;1975-1985: <strong>En el paro</strong><p></blockquote>
+ <blockquote><p>&bull;&nbsp;1965-1975: <strong>Cazavillanos y demás chusma</strong><p></blockquote>
+ <blockquote><p>&bull;&nbsp;1962-1965: <strong>Aprendiz de superhéroe</strong><p></blockquote>
+</body>
+</html>
